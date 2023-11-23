@@ -4,4 +4,7 @@
 
 .pytest_cache
 
-lib/__pycache__/todo.cpython-311.pyc
+lib/__pycache__/
+mocking_bites/__pycache__/
+tests/__pycache__/
+tests/__pycache__/
